@@ -1,4 +1,4 @@
-SOURCE_URL=https://github.com/duniter/cesium/releases/download/v1.4.2/cesium-v1.4.2-web.zip
+SOURCE_URL=https://github.com/duniter/cesium/releases/download/v1.4.6/cesium-v1.4.6-web.zip
 SOURCE_SUM=3980494e299758e19267c4145a7c1f93c42f1ec464f1342828b709945833bfb9
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
